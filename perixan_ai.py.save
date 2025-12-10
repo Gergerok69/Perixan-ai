@@ -1,0 +1,3 @@
+def generate_response(user_message):
+    # Basit örnek cevap döndürüyor
+    return f"Merhaba! Mesajını aldım: '{user_message}'"
